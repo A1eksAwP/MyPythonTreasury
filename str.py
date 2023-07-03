@@ -533,5 +533,3 @@ class MyNewChildClass(MyNextParentClass):
 
 
 print(issubclass(MyNewChildClass, MyNextParentClass))  # True
-
-
